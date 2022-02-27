@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The holy harmony: or, a plea for the abolishing of organs and other musick out of the Protestant churches of Great Britain, and demolishing of superstitious and idolatrous monuments. With a plenary expression of the Parliaments piety, cities charity, countreys constancy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86491</idno>
+            <idno type="STC">Wing H2526</idno>
+            <idno type="STC">Thomason E105_11</idno>
+            <idno type="STC">ESTC R2064</idno>
+            <idno type="EEBO-CITATION">99865560</idno>
+            <idno type="PROQUEST">99865560</idno>
+            <idno type="VID">117805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117805)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The holy harmony: or, a plea for the abolishing of organs and other musick out of the Protestant churches of Great Britain, and demolishing of superstitious and idolatrous monuments. With a plenary expression of the Parliaments piety, cities charity, countreys constancy.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Austin, and A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Music in churches --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117805:1" rendition="simple:additions"/>
+            <p>The Holy Harmony: <hi>OR,</hi> A Plea for the aboliſhing of Organs and other Muſick out of the Proteſtant Churches of Great Britain, and demoliſhing of ſuperſtitious and idolatrous Monuments.</p>
+            <p>WITH <hi>A plenary Expreſsion</hi> OF The
+<list>
+                  <item>Parliaments Piety,</item>
+                  <item>Cities Charity,</item>
+                  <item>Countreys Conſtancy.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ECCLES. 4.11, 12.</hi>
+               </bibl>
+               <p>Alſo if two ſleep together, then ſhall they have heat: but to one how ſhould there be heat?</p>
+               <p>And if one overcome him, two ſhall ſtand against him: and a threefold cord is not eaſily broken.</p>
+            </q>
+            <p>LONDON, Printed by <hi>R. Austin,</hi> and <hi>A. Coe.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117805:2"/>
+            <head>The Holy Harmonie.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Olomon</hi> the wiſeſt of Kings did ſo love the peace of the Church, that he charged the daughters of Jeruſalem not to awaken the Spouſe of Chriſt untill ſhe pleaſed, <hi>Cant.</hi> 8.4. and when he built the Temple of the Lord, you ſhall obſerve greater noiſe at the dedication then erection, for there we heard <hi>Solomons</hi> prayer, the peo<g ref="char:EOLhyphen"/>ples ſubmiſſion and acclamation, 2 <hi>Chron.</hi> 7.3. but in the building of this holy pile not the noiſe of a ham<g ref="char:EOLhyphen"/>mer: it is a Holy Harmony when the King and people joyn in prayer and ſacrifice, for I find it no prejudice to holy <hi>David</hi> in deſcending to the poo<g ref="char:EOLhyphen"/>reſt, though holy expreſſions of his people; the Crown and Scepter is not prejudic'd in the obſervation of the meaneſt acts of devotion: the King of <hi>Niniveh</hi> preſcribes not a faſt to man, and beaſt, but himſelf alſo. Monar<g ref="char:EOLhyphen"/>chy were miſerable if it had this exemption.</p>
+            <p>I find in this pious union between the King and people, a notable zeale, wherein it had been no point of treaſon, for the ſubject to have been more devout then his Soveraigne; 'tis true, the Levites were there with their in<g ref="char:EOLhyphen"/>ſtruments of muſick, which <hi>David</hi> made to praiſe the Lord, which I con<g ref="char:EOLhyphen"/>ceive he was forced to do, to comply with the people, who were but new<g ref="char:EOLhyphen"/>ly exept from under the Judges, in which time having no King, they did e<g ref="char:EOLhyphen"/>very man as he liſted, and therefore were not fully reduc'd to civility, ſo that <hi>David</hi> happily ſuffered theſe plauſible things, whereby to attract the peoples recourſe to the Temple, nature ever aiming at ſomthing that may pleaſe or profit, and a holy policy is tolerated, for God grants that nation a Bill of divorce, becauſe of the hardneſſe of their hearts: but we muſt know, that our hearty devotions are the only muſick for the houſe of God, Pſalms and Prayers are not the heavenlier for Copes and Veſtments, not the louder for wind-Inſtruments. Indeed I obſerve at the dedication of <hi>Nebuchadnezzars</hi> image, the Cornet, Trumpet, Harp, Sackbut, Pſaltery,
+<pb facs="tcp:117805:2"/>
+and all inſtruments of Muſick, <hi>Dan.</hi> 3.7. were alarums appointed as Vſhers to the adoration of thoſe living ſtatues to a dead image, as if the eare muſt be rouzed before the heart, or as if mens devotions were like Bucks, Bores or Hares, not to be rouzed without hollowings, hornes, and hounds, or as if men had ſlept all night in a ſtrange lodging, and were to be awakened the next morning by the Weights of the towne, with good morrow to your Worſhip, certainly that zeale is halfe dead the ſix dayes, that muſt have all that ſtirre to awaken his nap the ſeventh; certainly this is no holy Har<g ref="char:EOLhyphen"/>mony.</p>
+            <p>Me thinkes I affect that holy paſtime, and devout deriſion of <hi>Eliahs</hi> uſed to the Prieſts of <hi>Baal,</hi> when he was by the convincing, and converting of Iſreal, to confound them, 1. King. 18.27. <hi>Crie aloud</hi> (ſayes he) <hi>for he is a God, either he taketh or purſueth his enemies, or is in his journy, or it may be that he ſleepeth, and muſt be awaked,</hi> but this would have been one of the de<g ref="char:EOLhyphen"/>vils ſheetings, a great crie and no wooll.</p>
+            <p>Lazy and ſluggiſh devotion is cold in operation, holy duties have their life, and vigour without ſuch ſecondary aſſiſtance as is borrowed from lea<g ref="char:EOLhyphen"/>therne bellies: what needs ſuch horrid ſhouts unleſſe it bee to confound the ſweetnes of a hymne? tis hard for the vulgar ſort to know the Pſalme which is cleerely loſt by the Organs, and the Quire, well may they admire the art of the Muſician, but not edify themſelves; yet many I ſuppoſe have gon to ſee the praiers, but th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y could not diſtuiguiſh by the ſound they were ſo, yet was this applauded by the unholy, for the holieſt harmony.</p>
+            <p>The ſoule ſhould appeare to God, as God to <hi>Moſes,</hi> in a ſoft, and a ſtill winde, the holy and ſweet ſighes, or ſilent expreſſions of the ſoul are moſt acceptable, <hi>Paul</hi> knew the ſweetneſſe of this ſtill Muſick, theſe heavenly breathings, and would have preferred one of them before a thouſand crouds of ſackbutts, this is the holy harmony.</p>
+            <p>I find the ancient Romanes had a kinde of Vergers that went before their ſolemne proceſſions, to proclaime ſilence that ſo there might be no diſtur<g ref="char:EOLhyphen"/>bance to their devotions, for indeed me thinks it had been abſurd for a peo<g ref="char:EOLhyphen"/>ple to ſpeak to their God who muſt of neceſſity hold his tongue, but the new Romans being emptier of zeale, have their Organs to rouze theirs leaſt like thoſe in a ſwoune they ſhould die in a qualme of ardency; tis the organs of our ſelves we ſhould imploy in that ſervice. Poore <hi>Hanna</hi> obtained a ſonne for never a word ſpeaking. 1 Sam, 1.13. for <hi>Hanna</hi> ſpoke in heart, he lipps did move only, but her voice was not heard, but marke ſhe that con<g ref="char:EOLhyphen"/>ceived a prayer in her heart, forthwith conceives a ſon in her wombe, ſuch
+<pb facs="tcp:117805:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:117805:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:117805:4"/>
+acceſſe to the heavenly throne hath the ſilenteſt prayer, they ſhall be fertile that are faithfull, but as if the loudeſt prayers were the higheſt, <hi>Eli</hi> tells her ſhee is drunke, which ſhee devoutly diſproves, <hi>nay my Lord,</hi> &amp;c. even like him, more impotent, and holy they are in their cenſures, for they think all congregations drunke whoſe organs they heare not: but hee that prayes to be heard of men, men ſhall never heare that that mans prayer is heard, but we hope to have our deſires heard, granted, and our ſterile wombs opened by thoſe ſound, but not ſounding expreſſions of our foules, which is the holy harmony.</p>
+            <p>Chriſt when he was to raiſe the daughter of <hi>Iairus</hi> Mat. 9. would not worke his miracle of mercy till he had excluded the minſtrells (though a bedchamber be a fitter place for ſuch a pack then the houſe of God) our dum<g ref="char:EOLhyphen"/>piſh ſoules find ſmall ſolace in ſuch ſociety, nor can they be raiſed from their ſlumbers in ſin, nor receive the benefit of Chriſts conſolation, whilſt they ſuffer themſelves to be tranſported with the raving raptures of their fooliſh jollitie, tis thence happily we are deprived from the bleſſed operations of the ſpirit of life, wee approaching the tents of <hi>Iacob</hi> rather to heare the noiſe of ſuch inſtruments, then the devine voice of the charmer, <hi>who ſpake as never man ſpake.</hi>
+            </p>
+            <p>Tis worth the obſervation that <hi>Sauls</hi> evill ſpirit was driven away with <hi>Davids</hi> harpe, which we know was the ſtilleſt inſtrument amongſt the Iewes, for I conceive that not only much babbling but loud is diſcom<g ref="char:EOLhyphen"/>mended, though I know that deep ſorrowes, or ſtrong ſence of ſin doth frequently make choice of violent, zealous, importunate and loud expreſ<g ref="char:EOLhyphen"/>ſions, in which caſe if I miſtake not, was the holy <hi>Paul,</hi> when he cried out, <hi>Oh wretched man that I am, who ſhall deliver mee from this body of death?</hi> this is a holy harmony.</p>
+            <p>Queſtonleſſe the ſtill devotions are deepeſt: which ſmoothly and ſtrong<g ref="char:EOLhyphen"/>ly run in an unfathomed channell, haſting with a ſtrong current into the maine and uncircumſcribed Ocean of Gods mercies, then the whirling and ſhallow ſtreames, which publiſh their grumbling peace, and are dam<g ref="char:EOLhyphen"/>med up by boys in ſport. The Phariſee procliams his <hi>Plaudite,</hi> when as the poore Publican dares hardly whiſper his devotions, yet makes up a more approved Harmony.</p>
+            <p>I dare avouch the Primitive times ſent up ſpeaking devotions with a lit<g ref="char:EOLhyphen"/>tle noiſe or pomp, their holy melodie did not ſwell their cheeks, but their hearts with ſighes, and eyes with teares, they ſought not to give that a ſound which was dumbe, for they knew they praied to him that was not
+<pb facs="tcp:117805:4"/>
+deafe; for men in publique to tie themſelves to muſicall ayres, is to publiſh himſelfe a uſeleſſe fiddle that can make no muſick till he be put in tune. Such anthemes as thoſe our Saviour uſed over Heiruſalem, to which holy harmo<g ref="char:EOLhyphen"/>ny had they given regard, they had not felt the Romane fire.</p>
+            <p>Which divine harmony is the greateſt matter that hath kindled the holy Tapers of theſe times, who had rather offer up the incenſe of ſweet and heavenly prayer to almighty God, knowing that the ſtill, or ſweetely ſmel<g ref="char:EOLhyphen"/>ling, though ſilent, ſavour thereof, is more acceptable to him then all the bellowing of beaſts ſacrificed.</p>
+            <p>Theſe coares in our devotions doth the Parliament ſtrive by all meanss to cut out, as carefull confectioners from Apples, or Peares, or the ſtones from fruit, that ſo they may preſerve with the Sugar of reformation the fruit it ſelfe, whith elſe would putrifie, or like wiſe Chirurgions that em<g ref="char:EOLhyphen"/>bowell that body, they intend to embalme, tis much better to part with what we can ſpare, and will hurt being kept, then by keeping a ſnuff incenſe the owner to remove his candleſtick, this might juſtly be ſuffered by the Church, and the Church not ſuffer by it. I hold it as great an error in us to affect the Pompe of the Romiſh Church, as for them to contemne the homely, yet decent, and holy dreſſe of the Primitive, Chriſt choſe a ſpouſe that though ſhee was black was comely, the wife attires not her ſelfe but in a modeſt, and civill manner, when as the whore uſeth gariſh flaunting, pain<g ref="char:EOLhyphen"/>ting, criſping, to inſnare the ſilly beholder: whom ſhee blindfold leades in<g ref="char:EOLhyphen"/>to the Chambers of death: had not the pompe and policy of Rome prevailed beyond her, ſhee had had as few Proſelites, as Crowns, which whore, and bawd, our Parliament is wipping, and carting for her many fornications, and adulteries committed with the Kings of the earth, Rev. 17.2. this is the way to produce a Holy Harmony.</p>
+            <p>Thoſe watchmen of Iſrael, or ſtrongmenn about the bed of Solomon had rather our Church ſhould be found in the ſeameleſſe coat of Chriſt, then arrayed in the royall apparell of <hi>Herod,</hi> Act. 12. for they finde Chriſt ariſing from the hive of the worme in glory, and Herod made living food for the worms, ſo that now though I conclude not the ſame on our Church and theirs, who in all their blinde (though gariſh devotions) looke not on God, nor aſcribe the excellency thereof (if any) to him, but to the viſibility, and glory of their Church, and Pope, yet I ſay we may without ſinn expect a happy reſurrection of ours from the dead errors borrowed from them in which ſhee yet ſleepeth, and alſo to ſee her layd like Sodome, a marke of divine vengeance, to encreaſe our Harmony, how have they already
+<pb facs="tcp:117805:5"/>
+given proofs of theſe pious purpoſes, having defaced thoſe offenſive monu<g ref="char:EOLhyphen"/>ments ſtopt, and exiled by all poſſible means the courſe of her menſtru<g ref="char:EOLhyphen"/>ouſneſſe, and branded her with the marks of her proſtitutions. This then muſt needs be the <hi>baſis</hi> of their endeavours, for without ſome ſpirituall end no mortall men would ever involve themſelves in ſuch toyls, or ſtrive with <hi>Atlas</hi> to eaſe the groaning burden of a ſuperiour, an office not ſo painfull as unthankfull. I find in that Apologue of <hi>Iotham, Iudg.</hi> 9. that the Olive would not leave his fatneſſe, the Fig his ſweetneſſe, the Vine his cheering<g ref="char:EOLhyphen"/>neſſe, to be a King. Queſtionleſſe in that honourable Aſſembly there are Olives, Figs, Vines, which have declined the fat, ſweet, and cheerings of their poſſeſſions and retirements, to groan under conſtant incumbrances, ha<g ref="char:EOLhyphen"/>zards threatned, cenſures proclaimed, and ruines (without Gods infinite protection) to be expected, and all this for a Holy Harmony. I find in that place above-cited a bramble that accepts the government, which happily may be the reaſon that ever ſince there hath been ſuch ſcratching about a Crowne, for there be brambles that endeavour, if not to be in the throne of <hi>Solomon,</hi> yet to be as the Lions on either ſide, ſo that their Soveraigne might neither aſcend nor deſcend, but the beams of Majeſty muſt of ne<g ref="char:EOLhyphen"/>ceſſity reflect upon them, whoſe luſtre is peradventure not deſired for its own ſplendor, but for that it affords them; like the Salamander, who loves not the fire becauſe it is hot, but in reſpect of the antipathy between him and the cold: ſo I ſuppoſe ſuch brambles regard not the royall gems be<g ref="char:EOLhyphen"/>longing to the Crown, becauſe they are as fixed ſtars, and cannot be diſ<g ref="char:EOLhyphen"/>joynted from the regall poſſeſſour, they dearly adore thoſe the Prince may ſpate ro gild their blackberries, or if you will have it plainer, they affect not the religious acts of a Prince (which are the true imperiall gems) but cheriſh any vice that may feed their luxury or avarice: theſe be the kind <hi>Ravilliacs</hi> of a Prince, and brambles in a Throne. The pious and inſuppor<g ref="char:EOLhyphen"/>table care the Houſes undergo to produce this Harmony is inexpreſſible; what depths of unknown troubles wade they thorow? At Sea they ſtand at the helm by turns, becauſe the labour is great, and only thought to be the buſineſſe of one watch, but in this task of theirs every man is at the helm, the whole voyage being ſothered indiſſolubly, all mens labours are one, and ones is every mans, every Member being both the alarum that ſtrikes, and the wheeles alſo by which the alarum doth ſtrike. <hi>Argos</hi> is fained to have an hundred eyes, and him <hi>Iuno</hi> ſet to watch <hi>Io</hi> from <hi>Iupiters</hi> imbraces, which he did, giving his eyes reſt by turns, but theſe cannot doe ſo, for one motion keepes them all waking, let who that likes unmantle this fiction by a farther application.</p>
+            <p>
+               <pb facs="tcp:117805:5"/>Now all theſe bees doe extreamly labour to fetch in the hony on their laded thighes from all parts of the kingdome, into the hive of the Church, and common wealth, out of which to make one cake of pure wax of which may be made a bleſſed, and divine light, to guide us to a holy and heavenly Harmony. In which Act as good as great, this Citty hath not ſpared any encouragements that would poſſibly be given, whoſe helps to this Cauſe is not unworthy the name of Charity, though it may properly be ſtiled a mag<g ref="char:EOLhyphen"/>nificent ſupportment; yet where the greateſt workes of God doe require (though not want) the helpes of men, they are termed charitable workes.</p>
+            <p>In the cauſe of a diſtreſſed Mother the aid of a ſon may come within the liſts of Charity, though it be a duty injoyned by Nature; thus then the ſuſtaining of our mother the Church in her infirmities, not only by ſeeking ſuch remedies as may recover her health, and alſo reward the Doctor for preſcriptive receipts, and the Apothecaries bills, I meane the cheif reducers and their agents; this you do, and this Harmony you have endeavored to ad<g ref="char:EOLhyphen"/>vance, being as zealous, and largely free, as the heavens in ſhowres, the Sun order, the ſea in flouds; where ſhall I begin my wonder, is it at your Hoſpi<g ref="char:EOLhyphen"/>talls the ſtately nurſeries of infirm and diſeaſed bodies, or thoſe of crazed mindes, or looke upon the education of your infantry to breed up the good, or houſe of correction to caſtigate the ill, upon your free Almes to each Company belonging, your encouragements to deſerving female ſervants, your large allowances to heavenly Diſpenſers, your daily nouriſhments or ſhall I now name a Charity out-ſtripping the vaunts of Rome, ſuch a one that the ſun may ſtand amazed almoſt to behold, Poſterity would be ſtart<g ref="char:EOLhyphen"/>led to ſum up the laſt great, ſpacious unpatternd, and vaſt charity, to the Iriſh Pilgrimes, theſe were your brethren in Chriſt: ſo that now I am a<g ref="char:EOLhyphen"/>mazed at a greater disburſment; aſſociation, or what I may call it, a filiall, er<g ref="char:EOLhyphen"/>ſonall, generall aſſiſtance of your languiſhing Mother whoſe glorious raggs you have ſtriven to take off, whoſe holy homely ornaments you have like <hi>Solomons</hi> Temple endeavoured to garniſh not onely with your gold, but bloud, which holy harmony, as <hi>Paul</hi> ſpeaks of that he heard, no tongue can expreſſe, nor few of your own hearts can conceive. This great unexampled act makes you more famous then all your holy edifices, ſtately granaries, pompous edifices, by which you ſhall live in a record beyond the applauſe of <hi>Speed,</hi> or any mortall Chronologer or Hiſtorian. <hi>Rome</hi> quakes more now at the name of <hi>London,</hi> then once at <hi>Carthage,</hi> in whoſe wals noble <hi>Eſſex</hi> ſhalbe held as terrible as their <hi>Hanniball,</hi> no Hannonian faction ſhalbe
+<pb facs="tcp:117805:6"/>
+able to put a jarre in your Muſick, nor no <hi>Scipio</hi> ſurvive to triumph in y<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſpoyles, whilſt your dagger (the Cities arms) wounds yours and Gods op<g ref="char:EOLhyphen"/>poſers, and you enjoy that liberty which <hi>Paul</hi> made his dignity, being <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from all the Maligners of your proſperity: the twelve Companies, like the twelve Tribes, attending the Ark of the Almighty ſhall rear up their Stan<g ref="char:EOLhyphen"/>dards and lead you thorugh the wildernes, by the conqueſt of the Canantiſh. Confederates, till you arrive in the land of Promiſe where you ſhall finde what I treat of, a Holy Harmony.</p>
+            <p>Now behold the ſtrength of a zealous aſſociation, like that holy oyle <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Aarons</hi> head, that came down to his garments; tis not the Heads of the king<g ref="char:EOLhyphen"/>dome now aſſembled, that give care to this heavenly melody, nor the ſhoul<g ref="char:EOLhyphen"/>ders, which is the Metropolis, but the skirts of the garments, the zealous countries, though not ſo wealthy in abilities, yet have the ſame garlands to wreath about their heads.</p>
+            <p>Harfordſhire, Eſſex, and Cambridgeſhire, have furniſht up an Army able to reduce Ireland, who have ſent in 20000 able, wealthy, well armed, trained men, all of the army of the Lord of Hoſts to fight this (nay his bat<g ref="char:EOLhyphen"/>tell) who mett at their randevous in Cambridge, and Biſhop-Stratford, on Saturday laſt, where obſerve how ready the people of God are to obey his ſummons for upon Thurſday the firſt of this Iune at the Faire at Biſhop-Stratford: no ſooner had ſome of his Excellencies trump ſummoned their ap<g ref="char:EOLhyphen"/>pearance, but ſuddainly every man was in readneſſe, forſaking their wives with as great joy as firſt they met them, every man putting two moneths pay in his pocket, and have marched with a noble reſolution to procure to us a Harmony heere which ſhal be a preparation to that Harmony the Angels make at the throne of the Lamb, to whom be glory now, and for evermore. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
